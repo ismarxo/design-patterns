@@ -68,4 +68,4 @@ $box03->add($box12);
 $box03->add(new Product(100));
 $box03->add(new Product(200));
 
-var_dump($box02->getPrice());
+var_dump($box03->getPrice());
